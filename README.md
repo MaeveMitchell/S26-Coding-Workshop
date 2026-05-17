@@ -27,7 +27,11 @@ Cloning creates a version of the repository on your computer so you can make edi
 You can do this directly on RStudio to clone your forked repository to your local machine. On your GitHub fork, click on the green code button and copy url as shown below. <br/>
 <img src="images/code.png" width="450">
 
-Then, open RStudio and select **File** then **New Project**. Then select **Version Control**, **Git**, and copy your repo url in the Clone Git Repository Page Select the folder you want to keep the repository on your local repository. Finally, select **Create Project** <br/>
+Then, open RStudio and select **File** then **New Project**. Then select **Version Control**, **Git**, and copy your repo url in the Clone Git Repository Page Select the folder you want to keep the repository on your local repository. Finally, select **Create Project**. <br/>
 <img src="images/versioncontrol.png" width="400">
 <img src="images/git.png" width="400">
 <img src="images/reponame.png" width="400">
+
+### 2. Make and save changes
+Now that you're working on your local forked repository, let's practice some programming skills! <br/>
+In RStudio, select the S26_CBS_Coding_Workship.Rproj file.
