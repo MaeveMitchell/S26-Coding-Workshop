@@ -35,4 +35,4 @@ Open RStudio and select **File** then **New Project**. Then select **Version Con
 
 ### 2. Make and save changes
 Now that you're working on your local forked repository, let's practice some programming skills! <br/>
-In RStudio, select the S26_CBS_Coding_Workship.Rproj file.
+In RStudio, open the R folder in the repo structure, and select the **S26_CBS_Coding_Workshop.R** file.
