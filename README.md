@@ -43,7 +43,14 @@ Returning back to the Git tutorial, RStudio has a helpful interface to work with
 Once you make the changes to your R file, select the **Git** dropdown and **History** as shown in the image below.
 <img src="images/tabs.png" width="500">
 
-This will open up a window for you to review changes in RStudio. Select the **History** tab in the new window, and select the checkbox next to the file you made changes to. Select **Staged** to see the changes you want to include when you update your repo. Since we want to include all our changes, select **Stage** at the top of the window. Then, we want to save a snapshot of our changes with a message describing our edits. Enter your message in the box and select **Commit**. Finally, to upload your work to your forked repository, select **Push** at the top of the window.
+This will open up a window for you to review changes in RStudio. Select the **History** tab in the new window, and select the checkbox next to the file you made changes to. Select **Staged** to see the changes you want to include when you update your repo. Since we want to include all our changes, select **Stage** at the top of the window. Then, we want to save a snapshot of our changes with a message describing our edits. Enter your message in the box and select **Commit**. Finally, to upload your work to your forked repository, select **Push** at the top of the window. Once you successfully push, you can see the changes you made on your forked GitHub repository.
 <img src="images/commitbox.png" width="800">
 
-**Tip:** If you're getting an error saying "Invalid username or token", you may need to create a Personal Access Token. Go to Settings -> Developer Settings (at the bottom left) -> Personal Access Tokens. Then generate a token (classic), give access to repo, and set expiration to 7 days. Paste the token when prompted and this should solve the error.
+**Tip:** If you're getting an error saying "Invalid username or token", you may need to create a Personal Access Token. In your GitHub profile, Go to Settings -> Developer Settings (at the bottom left) -> Personal Access Tokens. Then generate a token (classic), give access to repo, and set expiration to 7 days. Paste the token when prompted and this should solve the error.
+
+### 4. Open a pull request
+When using GitHub for collaborative projects, users upload their changes back to the main repository. To submit your work to be added to the main repository, you have to send a pull request. <br/>
+
+First, go to your fork on GitHub. Then, click on "Compare & pull request" as shown below. <br/>
+<img src="images/pull.png" width="800"> <br/>
+Add a title to your pull request and click "Create Pull Request". Your pull request will be reviewed and merged to the main repository. <br/>
