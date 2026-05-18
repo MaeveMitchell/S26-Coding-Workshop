@@ -51,6 +51,6 @@ This will open up a window for you to review changes in RStudio. Select the **Hi
 ### 4. Open a pull request
 When using GitHub for collaborative projects, users upload their changes back to the main repository. To submit your work to be added to the main repository, you have to send a pull request. <br/>
 
-First, go to your fork on GitHub. Then, click on "Compare & pull request" as shown below. <br/>
-<img src="images/pull.png" width="800"> <br/>
-Add a title to your pull request and click "Create Pull Request". Your pull request will be reviewed and merged to the main repository. <br/>
+First, go to your fork on GitHub. Then, click on **Pull Requests**, and **Create pull request** as shown below. <br/>
+<img src="images/createpull.png" width="800"> <br/>
+Your pull request will be reviewed and merged to the main repository. <br/>
